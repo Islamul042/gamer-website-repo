@@ -117,6 +117,33 @@ p {
 
 }
 
+/* --------------mid-banner-part------------ */
+.mid-banner-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.mid-banner-left{
+    max-width: 70%;
+}
+.mid-manner-right{
+    max-width: 30%;
+    
+}
+.mid-banner-headeing{
+    text-align: right;
+    font-size: 48px;
+    font-weight: 700;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.mid-banner-des{
+    justify-content: right;
+    max-width: max-content;
+}
+
 @media screen and (max-width:576px) {
 
    .nav-all-part{
@@ -154,4 +181,3 @@ header{
 
 
 
-}
