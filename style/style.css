@@ -442,9 +442,24 @@ h5 {
 	margin-right: -256px;
 	font-size: 11px;
 }
-.main-last-part{
-    flex-direction: column;
+.main-last-part {
+	flex-direction: column-reverse;
 }
+
+.image-one {
+	position: relative;
+	width: 327px;
+	margin-right: 246px;
+	margin-left: 717px;
+}
+.image-two {
+	position: absolute;
+	width: 208px;
+	height: 236px;
+	margin-left: -777px;
+	padding: 163px 156px 149px 133px;
+}
+
 .image-four {
 	width: 303px;
 	margin-left: 250px;
