@@ -334,6 +334,50 @@ footer{
 	margin-left: 32%;
 	margin-right: 30%;
 }
+.footer-all-icon{
+    margin-left: 42%;
+	margin-right: 30%;
+    
+}
+.footer-social-icon a{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.footer-social-icon a i{
+    color: #FFF;
+    width: 20px;
+}
+
+.terms-condition-part{
+    margin-left: 35%;
+	margin-right: 20%;
+}
+.all-terms-and-condition-list a {
+	display: inline-block;
+	font-size: 15px;
+	color: #FFFF;
+	margin-right: 20px;
+	margin-top: -12px;
+	margin-bottom: 36px;
+    text-decoration: none;
+}
+.copyright{
+    color: #FFF;
+    text-align: center;
+   
+}
+.copyright-des {
+	font-size: 13px;
+	margin-left: -317px;
+	margin-top: -21px;
+	padding-bottom: 98px;
+}
+.all-game-list{
+    display: grid;
+    grid-template-columns: repeat(2, 41fr);
+}
 
 
 
@@ -533,6 +577,29 @@ h5 {
     position: center;
     margin-left: 31px;
   }
+
+  .footer-all-button {
+	margin-left: 0%;
+	margin-right: -18%;
+	padding: 0px;
+}
+.footer-all-icon {
+    margin-left: 32%;
+    margin-right: 12%;
+    pading: 42px;
+  }
+  .terms-condition-part {
+	margin-left: 4%;
+	margin-right: -53%;
+}
+
+.copyright-des {
+	font-size: 13px;
+	margin-left: -135px;
+	margin-top: -15px;
+	padding-bottom: 98px;
+	margin-right: 14px;
+}
 
 
 }
